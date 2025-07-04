@@ -2,7 +2,7 @@ import React from 'react';
 
 const Register = () => {
   return (
-    <div className="bg-gray-800 text-amber-50 min-h-screen px-4 py-10">
+    <div className="bg-gray-900 text-amber-50 min-h-screen px-4 py-10">
       <div className="w-full max-w-md mx-auto mt-16 bg-gray-700 rounded-xl shadow-lg p-8">
         <h1 className="text-3xl font-bold text-center mb-6">Register Page</h1>
 
